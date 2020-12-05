@@ -1,5 +1,5 @@
 # Binary Clock
-To Run `python clock.py`
+To Run `python3 clock.py`
 
 #### Python Practice Program
 
